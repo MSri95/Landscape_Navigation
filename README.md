@@ -1,6 +1,6 @@
 # Fitness Landscape Navigation
 
-This repository contains code for generating and calculating ruggedness measures for various random fitness landscapes.
+This repository contains code for generating and calculating ruggedness measures for various random fitness landscapes to reproduce the figure in the paper, "Evolution as fitness landscape navigation: Concepts, Measures, and Emerging Questions"
 
 ##  Overview
 
