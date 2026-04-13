@@ -14,5 +14,5 @@ This repository contains code for generating and calculating ruggedness measures
 
 - NK model: Tunable ruggedness via parameter \( K \)
 - HoC (House-of-Cards): Completely uncorrelated random landscape
-- RMF (Rough Mount Fuji): Additive slope c + noise
+- RMF (Rough Mount Fuji): Additive slope \(c\) + noise
 - Alternating (eggbox-like): Structured high/low fitness pattern
